@@ -49,6 +49,9 @@
     <input type="text" placeholder="city Name" name="city" id="city" required>
     <br>
 
+    <label for="Dist"><b>Dist Name</b></label>
+    <input type="text" placeholder="dist Name" name="dist" id="dist" required>
+    <br>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
